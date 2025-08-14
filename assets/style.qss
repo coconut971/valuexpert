@@ -1,0 +1,5 @@
+QWidget#barreLaterale { background-color: #f6f6f7; }
+QPushButton#boutonBarre { border: none; padding: 10px 14px; text-align: left; font-size: 14px; }
+QPushButton#boutonBarre:hover { background-color: #e6e6e9; }
+QStackedWidget { background: #ffffff; }
+* { font-family: "Segoe UI", Arial, sans-serif; }
